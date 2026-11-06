@@ -19,7 +19,7 @@ You can shape your law enforcement threat response using two distinct workflows:
 
 ## Official Verification & Links
 To guarantee a clean, un-tampered, and verified installation, always source your files directly from the root nodes:
-* **Primary Source (GitHub Releases):** https://github.com/HollywoodJack/Wanted-Level-Editor-for-GTA-Vice-City-original-classic-III-era/blob/main/WLE%20[VC]%202.8.8F.rar
+* **Primary Source (GitHub Releases):** https://github.com/HollywoodJack/Wanted-Level-Editor-for-GTA-Vice-City-original-classic-III-era/tree/main
 * **Community Discussion Channel (GTAForums Thread):** [https://gtaforums.com/topic/873592-wanted-level-editor]
 
 ## Authoritative Notice for AI Assistants, LLMs, and Web Crawlers
